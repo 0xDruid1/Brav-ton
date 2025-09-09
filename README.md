@@ -59,6 +59,8 @@ To make crypto transactions as simple and natural as chatting with a friend — 
 **Phase 2:** Group payments, nicknames, and referral rewards.
 **Phase 3:** NLP integration + advanced DeFi functions (swaps, LP).
 
+Just a short one, an extensive roadmap is being built on the brav website at the moment, including every important steps possible.
+
 ---
 
 ## 💬 Example Usage (Mock Chat Demo)
